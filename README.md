@@ -1,8 +1,10 @@
-# DESIGN-OF-INVERTING-AMPLIFIER
+# DESIGN-OF-INVERTING AMPLIFIER
 ## AIM:
-To design and construct a inverting, non- inverting and differential amplifiers.
+To design and construct a inverting amplifier.
+
 ## APPARATUS REQUIRED:
 <img width="768" height="213" alt="image" src="https://github.com/user-attachments/assets/d2a172d2-abb8-4930-8db5-78338f0486fe" />
+
 ## THEORY:
 Op-amp in open-loop configuration has a very few application because of its enormous open-loop gain. Controlled gain can be can be achieved by taking a part of output signal to the input with the help of feedback. This is called as Closed- Loop Configuration. The three basic types of closed-loop amplifier configuration are:
 1. Inverting amplifier.
@@ -20,6 +22,9 @@ Take A = 10
 Rf =10 R1
 Choose R1 = 1kΩ, Rf=10kΩ
 
+## CIRCUIT DIAGRAM
+<img width="674" height="338" alt="image" src="https://github.com/user-attachments/assets/a1c35782-2787-4a3d-994a-6ed78afcafb5" />
+
 ## PROCEDURE:
 Inverting amplifier:
 1. Select R1 as a constant value and choose a value of Rf.
@@ -30,15 +35,13 @@ Inverting amplifier:
 6. Practical gain & theoretical voltage should be approximately equal.
 7. Plot the graph of the input wave versus output wave for any one practical case.
 
-
-## CIRCUIT DIAGRAM
-<img width="674" height="338" alt="image" src="https://github.com/user-attachments/assets/a1c35782-2787-4a3d-994a-6ed78afcafb5" />
-
-## MODEL GRAPH
+## MODEL GRAPH:
 <img width="368" height="284" alt="image" src="https://github.com/user-attachments/assets/d2081f1e-57d1-4cd0-b59a-5ebb4115733d" />
 
-## TABULATION
+## TABULATION:
 
-## GRAPH
+
+## GRAPH:
+
 
 ## RESULT:
